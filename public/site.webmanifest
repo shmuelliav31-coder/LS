@@ -1,0 +1,11 @@
+{
+  "name": "LS Devs",
+  "short_name": "LS Devs",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "img/logo/logo-mark-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0a1030",
+  "background_color": "#0a1030",
+  "display": "browser"
+}
